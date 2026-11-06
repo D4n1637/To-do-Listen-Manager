@@ -23,15 +23,11 @@ Eine grafische Anwendung mit Tkinter zur Verwaltung von Aufgaben mit Funktionen 
 
 ## Installation
 
-1.Repository herunterladen.
-
-2.Python 3 installieren.
-
-3.Pillow installieren:
-
+1. Repository herunterladen.
+2. Python 3 installieren.
+3. Pillow installieren:
 pip install Pillow
-
-4.Die Python-Datei ausführen.
+4. Die Python-Datei ausführen.
 
 > [!NOTE]
 > Die benötigten Bilddateien müssen sich im selben Ordner wie das Python-Programm befinden.
