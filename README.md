@@ -45,3 +45,5 @@ Nach dem Start öffnet sich die grafische Benutzeroberfläche.
 - Timersymbol: Aktiviert eine Erinnerung, die nach fünf Sekunden angezeigt wird.
 
 Die Aufgaben und Erinnerungen werden automatisch in einer JSON-Datei gespeichert.
+
+![Screenshot der To-do-Liste](screenshots/todo-liste.png)
