@@ -46,4 +46,5 @@ Nach dem Start öffnet sich die grafische Benutzeroberfläche.
 
 Die Aufgaben und Erinnerungen werden automatisch in einer JSON-Datei gespeichert.
 
+
 ![Screenshot der To-do-Liste](screenshots/To-Do-Liste.png)
